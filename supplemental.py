@@ -4,7 +4,7 @@
 
 import sys
 import pickle
-sys.path.append("../tools/")
+sys.path.append("./tools/")
 from feature_format import featureFormat, targetFeatureSplit
 import numpy as np
 import matplotlib.pyplot as plt
