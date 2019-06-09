@@ -1,4 +1,4 @@
-# Using Machine Learning to Identify Fraud in Enron Emails
+# Using Machine Learning with Enron Data to Identify Fraud
 ### By Vítor Bernardes
 
 
